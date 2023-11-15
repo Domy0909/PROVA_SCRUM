@@ -9,5 +9,9 @@ package prova_scrum;
  * @author Asus
  */
 public class NewClass_alessia {
+    
+    public int Domenico(int a, int b){
+        return a*b;
+    }
    
 }

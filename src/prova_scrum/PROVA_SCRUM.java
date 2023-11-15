@@ -15,6 +15,8 @@ public class PROVA_SCRUM {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        NewClass_alessia alessia=new NewClass_alessia();
+        System.out.println(alessia.Domenico(3, 2));
     }
     
 }
